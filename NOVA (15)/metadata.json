@@ -1,0 +1,7 @@
+{
+  "name": "NOVA 2095 - Singularity OS",
+  "description": "A hyper-advanced AI interface from the year 2095. Features real-time voice interaction, 3D holographic visualization, and Gemini 2.5 neural grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
